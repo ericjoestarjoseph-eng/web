@@ -78,7 +78,4 @@ export const SERVICES = [
   },
 ];
 
-export const priceOf = (id) => {
-  const service = SERVICES.find((service) => service.id === id);
-  return service?.price ?? 0;
-};
+export const priceOf = (name) => SERVICES.find((s) => s.name === name)?.price ?? 0;
