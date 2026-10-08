@@ -5,7 +5,7 @@ function Contact() {
 
       <div className="contact-card">
         <p>📍 <strong>Address:</strong> 12, Service Road, Bengaluru, Karnataka</p>
-        <p>📞 <strong>Phone:</strong> +91 98765 43210</p>
+        <p>📞 <strong>Phone:</strong> +91 72046 64896</p>
         <p>✉️ <strong>Email:</strong> support@vehicleservice.com</p>
         <p>🕘 <strong>Working Hours:</strong> Mon - Sat, 9:00 AM - 6:00 PM</p>
         <p>🚫 <strong>Sunday:</strong> Closed</p>
