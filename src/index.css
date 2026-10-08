@@ -1,0 +1,34 @@
+:root {
+  font: 18px/145% system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: #121213;
+}
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-weight: 500;
+  color: #08060d;
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: -1.5px;
+  margin: 32px 0;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 0 0 8px;
+}
+
+p {
+  margin: 0;
+}
