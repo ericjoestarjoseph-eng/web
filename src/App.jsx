@@ -18,6 +18,7 @@ function App() {
         <Route path="/services" element={<Services />} />
         <Route path="/booking" element={<Booking />} />
         <Route path="/history" element={<ServiceHistory />} />
+        <Route path="/billing" element={<ServiceHistory />} />
       </Routes>
     </BrowserRouter>
   );

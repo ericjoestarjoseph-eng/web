@@ -17,9 +17,9 @@ function Home() {
           <h2>📅 Appointments</h2>
           <p>Book a service slot for a vehicle.</p>
         </Link>
-        <Link to="/history" className="home-card">
+        <Link to="/billing" className="home-card">
           <h2>🧾 History & Billing</h2>
-          <p>View past services and bill amounts.</p>
+          <p>View service invoices and revenue summaries.</p>
         </Link>
       </div>
     </main>
