@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Services from "./pages/Services";
 import Booking from "./pages/Booking";
+import Contact from "./pages/Contact";
 import ServiceHistory from "./pages/ServiceHistory";
 import "./App.css";
 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/services" element={<Services />} />
         <Route path="/booking" element={<Booking />} />
         <Route path="/history" element={<ServiceHistory />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/billing" element={<ServiceHistory />} />
       </Routes>
     </BrowserRouter>
